@@ -1,0 +1,12 @@
+# Ignore config.py
+config.py
+
+# Ignore Google Application Credentials
+*.json
+GOOGLE_APPLICATION_CREDENTIALS
+
+# Ignore virtual environments
+venv/
+
+#ignore this notebook for now
+predictive-clv-model.ipynb
